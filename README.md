@@ -1,5 +1,5 @@
 # CUSTOM COLOR SORTING MISSION (C ROBOT SIMULATOR)
-[![Developed by SnoopyCodeX](https://img.shields.io/badge/Developed%20by-Danielle_Adan-red.svg?longCache=true&style=for-the-badge)](https://facebook.com/ryuzakilovescoding)
+[![Developed by Danielle Adan](https://img.shields.io/badge/Developed%20by-Danielle_Adan-red.svg?longCache=true&style=for-the-badge)](https://facebook.com/ryuzakilovescoding)
 
 For Danielle Adan's presentation on Day 2 of the CHS Robotics Club Boot Camp 2022, this color sorting map is designed for use with the C Robot Simulator software (developed by Krumon Robot and C INEX).
 
